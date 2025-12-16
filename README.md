@@ -1,5 +1,5 @@
 # Lightning Launcher
-[![Github Release Downloads](https://img.shields.io/github/downloads/threethan/LightningLauncher/total?style=for-the-badge&logo=GitHub&label=GitHub%20Downloads)](github.com/threethan/LightningLauncher/releases)
+[![Github Release Downloads](https://img.shields.io/github/downloads/threethan/LightningLauncher/total?style=for-the-badge&logo=GitHub&label=GitHub%20Downloads)](https://github.com/threethan/LightningLauncher/releases)
 [![SideQuest Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sidequestvr.com%2Fv2%2Fapps%2F21783&query=downloads&style=for-the-badge&logo=SideQuest&label=SideQuest%20Downloads&color=%23bd5ba7)](https://sidequestvr.com/app/21783)
 
 A lightning-fast app launcher designed for big screens. Fully compatible with Meta Quest & Android TV.
@@ -37,6 +37,7 @@ It has been built with a focus on speed, flexiblity, and convenience.
 It can run on any Android device, but has been tailored for the lastest updates to the Oculus/Meta Quest OS.
 
 ![Screenshot](https://github.com/user-attachments/assets/9d90d12f-cb0d-4e24-b5e2-27dfd0545cb0)
+![Screenshot2](https://github.com/user-attachments/assets/4804027e-ac74-41aa-b6e4-fab3de65da74)
 
 # Setup Guide
 **[Get Lightning Launcher on SideQuest](https://sidequestvr.com/app/21783)**, or:
