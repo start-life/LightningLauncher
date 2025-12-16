@@ -1,7 +1,8 @@
 # Lightning Launcher
+[![Github Release Downloads](https://img.shields.io/github/downloads/threethan/LightningLauncher/total?style=for-the-badge&logo=GitHub&label=GitHub%20Downloads)](github.com/threethan/LightningLauncher/releases)
+[![SideQuest Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.sidequestvr.com%2Fv2%2Fapps%2F21783&query=downloads&style=for-the-badge&logo=SideQuest&label=SideQuest%20Downloads&color=%23bd5ba7)](https://sidequestvr.com/app/21783)
+
 A lightning-fast app launcher designed for big screens. Fully compatible with Meta Quest & Android TV.
-## [Get it on SideQuest VR](https://sidequestvr.com/app/21783)
-> *🎉  Thanks for over 110K downloads!*
 
 <table>
 <tr>
